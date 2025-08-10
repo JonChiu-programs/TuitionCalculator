@@ -13,8 +13,8 @@ class is or (B) changing a series of fixed values to calculate a full-time stude
 The latter will also be true for entering your campus's room and meal/board costs if you are living on campus (if you are living off campus, then
 change the 'room' value to 0 & the 'meals' value to match your situation, assuming you have a meal plan (change to 0 if no meal plan)).
 
-
-PLEASE READ INSTRUCTIONS BEFORE USE! PRESS ENTER TO CONTINUE.
+PLEASE READ INSTRUCTIONS BEFORE USE! PRESS ENTER TO CONTINUE. TYPE 'EXIT' TO END SESSION.
+THIS WILL BE THE ONLY TIME WHERE YOU WILL BE ABLE TO END THE PROGRAM.
                              *  *  *
                           *     *     *
                        *     *     *     *
