@@ -1,19 +1,19 @@
 This program is meant to allow for the accurate calculation of the BILLABLE tuition costs of your college/university using their latest rates for
-the purposes of calculating the amount of financial aid that is needed. This is especially useful if the tuition calculators of you college/
-university are using dated information to provide their calculations.
+the purposes of calculating the amount of financial aid that is needed. This is especially useful if the tuition calculators of your college/
+university are using outdated information to provide their calculations.
 
 To use this program, you will first enter the type of student you are, whether that be full-time or part-time. I recommend that you check your
 college/university's student designations to ensure you are choosing correctly based on your situation. Following this step, enter the overall
 costs of your college such as tuition, room and board, etc.
-DO NOT USE COMMAS WHEN INPUTTING NUMBERS THAT ARE LARGER THAN HUNDREDS!
+DO NOT ENTER DOLLAR SIGNS BEFORE NUMBERS OR USE COMMAS WHEN INPUTTING NUMBERS THAT ARE LARGER THAN HUNDREDS!
 
 Following your selection of student type, you will then either (A) enter the amount of classes you will be taking and how many credits each
 class is or (B) changing a series of fixed values to calculate a full-time student's tuition.
 
 The latter will also be true for entering your campus's room and meal/board costs if you are living on campus (if you are living off campus, then
-change the 'room' value to 0 & the 'meals' value to match your situation, assuming you have a meal plan (change to 0 if no meal plan)).
+enter the 'room' value as 0 & the 'meals' value to match your situation, assuming you have a meal plan (change to 0 if no meal plan)).
 
-PLEASE READ INSTRUCTIONS BEFORE USE! PRESS ENTER TO CONTINUE. TYPE 'EXIT' TO END THE SESSION.
+PLEASE READ INSTRUCTIONS BEFORE USE! PRESS ENTER TO CONTINUE. TYPE 'EXIT' TO END SESSION.
 THIS WILL BE THE ONLY TIME WHERE YOU WILL BE ABLE TO END THE PROGRAM.
                              *  *  *
                           *     *     *
@@ -36,4 +36,3 @@ THIS WILL BE THE ONLY TIME WHERE YOU WILL BE ABLE TO END THE PROGRAM.
                        *        *        *
                           *     *     *
                              *  *  *
-
