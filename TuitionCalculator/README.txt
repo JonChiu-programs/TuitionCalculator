@@ -17,5 +17,3 @@ To access this and run the program:
 Note: Please keep all files within the same folder as the program in order for it to run properly, otherwise you will receive an error message. Should any file be deleted for any reason, please redownload file and place it back into the folder that houses the program.
 
 ¡Nada funcionará a menos que lo hagas funcionar!
-
-
