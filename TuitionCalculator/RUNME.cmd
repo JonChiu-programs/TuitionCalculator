@@ -1,6 +1,6 @@
 @echo off
 
-set /p findFolder=Enter variable path from address bar: 
+set /p findFolder=Enter variable path for the TuitionCalculator folder from address bar: 
 cd %findFolder%
 cls
 java TuitionCalculator
