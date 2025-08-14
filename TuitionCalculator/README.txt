@@ -8,7 +8,7 @@ To access this and run the program:
 
 1) Enter the folder where you have stored the program and all associated files and double-click on "RUNME"
 
-2) Go to the address bar above your files and click the bar so that the text is highlighted in blue. press Ctrl+C
+2) Go to the address bar above your files and click the bar so that the text is highlighted in blue. Make sure that the highlighted text ends in "TuitionCalculator". press Ctrl+C
 
 3) Press Ctrl+V following the prompt "Enter variable path from search bar: "
 
@@ -17,4 +17,5 @@ To access this and run the program:
 Note: Please keep all files within the same folder as the program in order for it to run properly, otherwise you will receive an error message. Should any file be deleted for any reason, please redownload file and place it back into the folder that houses the program.
 
 ¡Nada funcionará a menos que lo hagas funcionar!
+
 
