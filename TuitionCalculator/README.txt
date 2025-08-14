@@ -10,7 +10,7 @@ To access this and run the program:
 
 2) Go to the address bar above your files and click the bar so that the text is highlighted in blue. Make sure that the highlighted text ends in "TuitionCalculator". press Ctrl+C
 
-3) Press Ctrl+V following the prompt "Enter variable path from search bar: "
+3) Press Ctrl+V following the prompt "Enter variable path for the TuitionCalculator folder from search bar: "
 
 4) Read instructions presented to run the program
 
